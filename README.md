@@ -1,10 +1,11 @@
-# hw2. the sum-of-pair score of the MSA
-<your name + student ID>
+# pro2. calculate the Sum-Of-Pair score of the MSA
+* your name
+* student ID
 
 ## Description
 
 * Write a Python program to calculate the multiple sequence alignment's sum-of-pair score (SoP).
-* Creating your own program, i.e. hw2.py.
+* Creating your own program, i.e., hw2.py.
 * Packages you can use: numpy, pandas
 * You write a program with a function named calculate_SoP, ie.
 ```
@@ -17,7 +18,7 @@ def calculate_SoP(input_path, score_path, gopen, gextend):
 
 ## File
 
-* hw2_ref.py: You can start from this reference code, and try to write your own comment in English
+* hw2_ref.py: You can start from this reference code and try to write your own comment in English
 * pam100.txt
 * pam250.txt
 * test1.fasta
@@ -50,3 +51,11 @@ The correct answer gets 10 points for each testing data.
 
 * High code similarity to others: YOUR SCORE = 0
 
+## References
+Please provide the code along with its reference. For example, you can cite it as: ```# ChatGPT, respond to “your prompt,” on February 16, 2023```. Below is an example of a reference format summarizing the use of ChatGPT for R programming
+
+>You are the R Language expert.
+>Please help me to write a function called “k_fold”.
+>Using a given dataset to train the random forest model, and using the k-fold cross-validation to evaluate the best model parameters. Here is the instruction for the function requirements:\
+>Function name: k_fold\
+>Function parameters:
