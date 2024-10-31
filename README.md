@@ -32,7 +32,7 @@ def calculate_SoP(input_path, score_path, gopen, gextend):
 
 ## Command
 
-Please go ahead and execute your code with the following command.
+Please go ahead and execute your code using the following command.
 
 
 ```Python
